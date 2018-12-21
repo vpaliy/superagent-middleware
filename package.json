@@ -1,0 +1,23 @@
+{
+  "name": "superagent-middleware",
+  "version": "1.0.0",
+  "description": "Title says it all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpaliy/superagent-middleware.git"
+  },
+  "keywords": [
+    "superagent",
+    "middleware"
+  ],
+  "author": "Vasyl Paliy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vpaliy/superagent-middleware/issues"
+  },
+  "homepage": "https://github.com/vpaliy/superagent-middleware#readme"
+}
